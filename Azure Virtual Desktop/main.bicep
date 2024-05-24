@@ -10,7 +10,7 @@ param location string = 'WestUs3'
 
 param resourceGroupName string = 'rg-avd-prd-wus3'
 
-//hostpool Params 
+//hostpool Params
 param hostPoolName string = 'hp-avd-prd-wus3'
 
 // applicationGroup Params
